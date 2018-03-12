@@ -1,1 +1,1 @@
-# notebooks - test file
+# jupyter notebooks - CKAN datasets (rdm.inesctec.pt)
